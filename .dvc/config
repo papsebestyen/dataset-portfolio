@@ -1,0 +1,4 @@
+['remote "remote_secret"']
+    url = gdrive://1l-esBeoIOVmWlwRoy6HkFgRcnsHPDzoz
+['remote "remote_public"']
+    url = gdrive://1o70Elrv14U66ph6lDhQldRRBwe9bDuSk
