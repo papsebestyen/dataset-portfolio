@@ -1,3 +1,4 @@
 from sscutils import create_trepo_with_subsets
 
-objects_table = create_trepo_with_subsets("objects")
+comments_table = create_trepo_with_subsets("comments", group_cols='topic')
+users_table = create_trepo_with_subsets("users")
