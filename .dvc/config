@@ -1,3 +1,5 @@
+[core]
+    remote = remote_secret
 ['remote "remote_secret"']
     url = gdrive://1l-esBeoIOVmWlwRoy6HkFgRcnsHPDzoz
 ['remote "remote_public"']
