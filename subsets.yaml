@@ -1,3 +1,7 @@
 complete:
   branch: main
   default: true
+hun_bluechip:
+  branch: hblue
+  sampling_kwargs:
+    only_hun_bluechip: true
